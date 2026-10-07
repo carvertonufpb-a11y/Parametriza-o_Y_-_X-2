@@ -1,2 +1,2 @@
-# Parametriza-o_Y_-_X-2
+# Progressões Aritméticas na Parábola. 
 Parametrização de ternas em PA na parábola y = x^2
